@@ -14,7 +14,7 @@ Before running the application, ensure you have the following prerequisites inst
 ### Clone the repository:
 
 ```sh
-git clone https://github.com/your-username/JAVA-Spring-Boot-ChatApp.git
+git clone https://github.com/djordje34/JAVA-Spring-Boot-ChatApp.git
 ```
 
 ### Navigate to the project directory: 
